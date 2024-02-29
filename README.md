@@ -37,3 +37,10 @@ En base con la primera red pero con ciertos parametros diferentes, también se i
     <img width="20%" src="https://import.cdn.thinkific.com/cdn-cgi/image/width=384,dpr=2,onerror=redirect/705742%2Fcustom_site_themes%2Fid%2FxVbf2a4QI6LMRQywVIhA_Group%2022406.png" alt="Open In Colab"/>
   </a>
 </center>
+<br>
+
+---
+
+### Atribuciones
+
+- Este repositorio cuenta con una  [GNU License](https://github.com/Jeremy-22/RN/blob/main/LICENSE).
